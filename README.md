@@ -1,2 +1,2 @@
-# hello-world
-This is my first repository 
+# hello-word
+I am seth livingston a programmer and a student
